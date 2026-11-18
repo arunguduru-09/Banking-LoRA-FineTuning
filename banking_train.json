@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What is KYC?",
+        "answer": "KYC stands for Know Your Customer."
+    },
+    {
+        "question": "What is EMI?",
+        "answer": "EMI stands for Equated Monthly Instalment."
+    },
+    {
+        "question": "What is a savings account?",
+        "answer": "A savings account helps customers save money."
+    },
+    {
+        "question": "What is a credit score?",
+        "answer": "A credit score indicates creditworthiness."
+    },
+    {
+        "question": "What is a fixed deposit?",
+        "answer": "A fixed deposit holds money for a fixed period."
+    }
+]

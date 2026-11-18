@@ -1,0 +1,102 @@
+[
+    {
+        "question": "What is KYC?",
+        "answer": "KYC stands for Know Your Customer."
+    },
+    {
+        "question": "What does KYC mean?",
+        "answer": "KYC means Know Your Customer."
+    },
+    {
+        "question": "Expand KYC.",
+        "answer": "KYC stands for Know Your Customer."
+    },
+    {
+        "question": "What is EMI?",
+        "answer": "EMI stands for Equated Monthly Instalment."
+    },
+    {
+        "question": "What does EMI stand for?",
+        "answer": "EMI stands for Equated Monthly Instalment."
+    },
+    {
+        "question": "Expand EMI.",
+        "answer": "EMI means Equated Monthly Instalment."
+    },
+    {
+        "question": "What is a fixed deposit?",
+        "answer": "A fixed deposit is money deposited for a fixed period."
+    },
+    {
+        "question": "Explain fixed deposit.",
+        "answer": "A fixed deposit holds money for a fixed period."
+    },
+    {
+        "question": "What is FD?",
+        "answer": "FD stands for Fixed Deposit."
+    },
+    {
+        "question": "What is a savings account?",
+        "answer": "A savings account helps customers save money."
+    },
+    {
+        "question": "What is a current account?",
+        "answer": "A current account supports frequent banking transactions."
+    },
+    {
+        "question": "What is a credit score?",
+        "answer": "A credit score indicates creditworthiness."
+    },
+    {
+        "question": "What is a loan?",
+        "answer": "A loan is money borrowed that must be repaid."
+    },
+    {
+        "question": "What is interest?",
+        "answer": "Interest is the cost of borrowing money."
+    },
+    {
+        "question": "What is principal?",
+        "answer": "Principal is the original amount borrowed."
+    },
+    {
+        "question": "What is collateral?",
+        "answer": "Collateral is an asset pledged to secure a loan."
+    },
+    {
+        "question": "What is an ATM?",
+        "answer": "ATM stands for Automated Teller Machine."
+    },
+    {
+        "question": "What is UPI?",
+        "answer": "UPI stands for Unified Payments Interface."
+    },
+    {
+        "question": "What is NEFT?",
+        "answer": "NEFT stands for National Electronic Funds Transfer."
+    },
+    {
+        "question": "What is RTGS?",
+        "answer": "RTGS stands for Real Time Gross Settlement."
+    },
+    {
+        "question": "What is IFSC?",
+        "answer": "IFSC stands for Indian Financial System Code."
+    },
+    {
+        "question": "What is a debit card?",
+        "answer": "A debit card uses funds from a linked bank account."
+    },
+    {
+        "question": "What is a credit card?",
+        "answer": "A credit card allows borrowing up to an approved limit."
+    },
+    {
+        "question": "What is a bank statement?",
+        "answer": "A bank statement records account transactions."
+    },
+    {
+        "question": "What is a nominee?",
+        "answer": "A nominee is a person designated by the account holder."
+    }
+]
